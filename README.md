@@ -1,1 +1,1 @@
-# Pong-In-C
+# Pong In C
