@@ -154,7 +154,7 @@ int main(){
             p1Position = (Vector2){750, (screenHight / 2) - (p1Size.y / 2)};
             p2Position = (Vector2){50, (screenHight / 2) - (p2Size.y / 2)};
             ballPosition = (Vector2){(screenWidth / 2) - (ballSize.x / 2), (screenHight / 2)};
-            ballSpeed = (Vector2){5.0f, 5.0f};
+            ballSpeed = (Vector2){8.0f, 8.0f};
         }
 
         //---- Drawing ----
